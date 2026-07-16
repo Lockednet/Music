@@ -8,5 +8,10 @@
     "artist": "Internacional",
     "style": "Internacional",
     "icon": "https://raw.githubusercontent.com/Lockednet/Music/main/Internacional/capa.jpg"
+  },
+  {
+    "artist": "Link Park",
+    "style": "Rock",
+    "icon": "https://raw.githubusercontent.com/Lockednet/Music/main/Link Park/capa.jpg"
   }
 ]
